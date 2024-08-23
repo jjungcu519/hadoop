@@ -1,0 +1,7 @@
+apple mango pineapple
+pineapple mango apple
+apple apple mango
+mango mango pineapple
+mango mango mango
+pineapple
+apple mango
